@@ -1,0 +1,355 @@
+2021-03-03 09:15:34,790 INFO 2080 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-03 09:15:34,812 INFO 2080 [egg-multipart] stream mode enable
+2021-03-03 09:15:35,880 INFO 2080 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-03 09:15:35,882 INFO 2080 [egg-security] use csrf middleware
+2021-03-03 09:15:35,883 INFO 2080 [egg-security] use methodnoallow middleware
+2021-03-03 09:15:35,884 INFO 2080 [egg-security] use noopen middleware
+2021-03-03 09:15:35,885 INFO 2080 [egg-security] use nosniff middleware
+2021-03-03 09:15:35,885 INFO 2080 [egg-security] use xssProtection middleware
+2021-03-03 09:15:35,886 INFO 2080 [egg-security] use xframe middleware
+2021-03-03 09:15:35,887 INFO 2080 [egg-security] use dta middleware
+2021-03-03 09:15:35,887 INFO 2080 [egg-security] compose 7 middlewares into one security middleware
+2021-03-03 09:15:35,934 INFO 2080 [egg:core] dump config after load, 3ms
+2021-03-03 09:15:35,946 INFO 2080 [egg-watcher:application] watcher start success
+2021-03-03 09:15:35,958 INFO 2080 [egg:core] dump config after ready, 9ms
+2021-03-03 09:16:38,479 INFO 2137 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-03 09:16:38,507 INFO 2137 [egg-multipart] stream mode enable
+2021-03-03 09:16:38,623 INFO 2137 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-03 09:16:38,625 INFO 2137 [egg-security] use csrf middleware
+2021-03-03 09:16:38,626 INFO 2137 [egg-security] use methodnoallow middleware
+2021-03-03 09:16:38,626 INFO 2137 [egg-security] use noopen middleware
+2021-03-03 09:16:38,627 INFO 2137 [egg-security] use nosniff middleware
+2021-03-03 09:16:38,628 INFO 2137 [egg-security] use xssProtection middleware
+2021-03-03 09:16:38,629 INFO 2137 [egg-security] use xframe middleware
+2021-03-03 09:16:38,629 INFO 2137 [egg-security] use dta middleware
+2021-03-03 09:16:38,629 INFO 2137 [egg-security] compose 7 middlewares into one security middleware
+2021-03-03 09:16:38,666 INFO 2137 [egg:core] dump config after load, 3ms
+2021-03-03 09:16:38,674 INFO 2137 [egg-watcher:application] watcher start success
+2021-03-03 09:16:38,680 INFO 2137 [egg:core] dump config after ready, 4ms
+2021-03-03 09:16:39,371 INFO 2143 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-03 09:16:39,394 INFO 2143 [egg-multipart] stream mode enable
+2021-03-03 09:16:39,450 INFO 2143 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-03 09:16:39,451 INFO 2143 [egg-security] use csrf middleware
+2021-03-03 09:16:39,452 INFO 2143 [egg-security] use methodnoallow middleware
+2021-03-03 09:16:39,452 INFO 2143 [egg-security] use noopen middleware
+2021-03-03 09:16:39,453 INFO 2143 [egg-security] use nosniff middleware
+2021-03-03 09:16:39,453 INFO 2143 [egg-security] use xssProtection middleware
+2021-03-03 09:16:39,453 INFO 2143 [egg-security] use xframe middleware
+2021-03-03 09:16:39,454 INFO 2143 [egg-security] use dta middleware
+2021-03-03 09:16:39,454 INFO 2143 [egg-security] compose 7 middlewares into one security middleware
+2021-03-03 09:16:39,464 INFO 2143 [egg:core] dump config after load, 6ms
+2021-03-03 09:16:39,472 INFO 2143 [egg-watcher:application] watcher start success
+2021-03-03 09:16:39,478 INFO 2143 [egg:core] dump config after ready, 4ms
+2021-03-03 09:37:46,753 INFO 2984 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-03 09:37:46,778 INFO 2984 [egg-multipart] stream mode enable
+2021-03-03 09:37:47,875 INFO 2984 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-03 09:37:47,877 INFO 2984 [egg-security] use csrf middleware
+2021-03-03 09:37:47,878 INFO 2984 [egg-security] use methodnoallow middleware
+2021-03-03 09:37:47,879 INFO 2984 [egg-security] use noopen middleware
+2021-03-03 09:37:47,880 INFO 2984 [egg-security] use nosniff middleware
+2021-03-03 09:37:47,880 INFO 2984 [egg-security] use xssProtection middleware
+2021-03-03 09:37:47,881 INFO 2984 [egg-security] use xframe middleware
+2021-03-03 09:37:47,881 INFO 2984 [egg-security] use dta middleware
+2021-03-03 09:37:47,882 INFO 2984 [egg-security] compose 7 middlewares into one security middleware
+2021-03-03 09:37:47,950 INFO 2984 [egg:core] dump config after load, 4ms
+2021-03-03 09:37:47,961 INFO 2984 [egg-watcher:application] watcher start success
+2021-03-03 09:37:47,967 INFO 2984 [egg:core] dump config after ready, 4ms
+2021-03-03 10:50:45,403 WARN 2984 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-03 11:36:52,028 INFO 9779 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-03 11:36:52,058 INFO 9779 [egg-multipart] stream mode enable
+2021-03-03 11:36:52,161 INFO 9779 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-03 11:36:52,163 INFO 9779 [egg-security] use csrf middleware
+2021-03-03 11:36:52,164 INFO 9779 [egg-security] use methodnoallow middleware
+2021-03-03 11:36:52,165 INFO 9779 [egg-security] use noopen middleware
+2021-03-03 11:36:52,166 INFO 9779 [egg-security] use nosniff middleware
+2021-03-03 11:36:52,166 INFO 9779 [egg-security] use xssProtection middleware
+2021-03-03 11:36:52,167 INFO 9779 [egg-security] use xframe middleware
+2021-03-03 11:36:52,168 INFO 9779 [egg-security] use dta middleware
+2021-03-03 11:36:52,168 INFO 9779 [egg-security] compose 7 middlewares into one security middleware
+2021-03-03 11:36:52,185 INFO 9779 [egg:core] dump config after load, 10ms
+2021-03-03 11:36:52,194 INFO 9779 [egg-watcher:application] watcher start success
+2021-03-03 11:36:52,200 INFO 9779 [egg:core] dump config after ready, 4ms
+2021-03-03 12:37:11,464 WARN 9779 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-03 13:07:10,457 WARN 9779 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-03 13:32:28,673 WARN 9779 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-03 13:32:28,673 WARN 9779 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-03 13:51:59,821 WARN 9779 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-03 14:00:20,127 INFO 10239 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-03 14:00:20,149 INFO 10239 [egg-multipart] stream mode enable
+2021-03-03 14:00:20,258 INFO 10239 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-03 14:00:20,260 INFO 10239 [egg-security] use csrf middleware
+2021-03-03 14:00:20,261 INFO 10239 [egg-security] use methodnoallow middleware
+2021-03-03 14:00:20,262 INFO 10239 [egg-security] use noopen middleware
+2021-03-03 14:00:20,263 INFO 10239 [egg-security] use nosniff middleware
+2021-03-03 14:00:20,264 INFO 10239 [egg-security] use xssProtection middleware
+2021-03-03 14:00:20,265 INFO 10239 [egg-security] use xframe middleware
+2021-03-03 14:00:20,266 INFO 10239 [egg-security] use dta middleware
+2021-03-03 14:00:20,266 INFO 10239 [egg-security] compose 7 middlewares into one security middleware
+2021-03-03 14:00:20,323 INFO 10239 [egg:core] dump config after load, 3ms
+2021-03-03 14:00:20,332 INFO 10239 [egg-watcher:application] watcher start success
+2021-03-03 14:00:20,338 INFO 10239 [egg:core] dump config after ready, 4ms
+2021-03-03 14:01:29,193 INFO 10255 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-03 14:01:29,214 INFO 10255 [egg-multipart] stream mode enable
+2021-03-03 14:01:29,266 INFO 10255 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-03 14:01:29,268 INFO 10255 [egg-security] use csrf middleware
+2021-03-03 14:01:29,268 INFO 10255 [egg-security] use methodnoallow middleware
+2021-03-03 14:01:29,269 INFO 10255 [egg-security] use noopen middleware
+2021-03-03 14:01:29,269 INFO 10255 [egg-security] use nosniff middleware
+2021-03-03 14:01:29,270 INFO 10255 [egg-security] use xssProtection middleware
+2021-03-03 14:01:29,270 INFO 10255 [egg-security] use xframe middleware
+2021-03-03 14:01:29,270 INFO 10255 [egg-security] use dta middleware
+2021-03-03 14:01:29,270 INFO 10255 [egg-security] compose 7 middlewares into one security middleware
+2021-03-03 14:01:29,278 INFO 10255 [egg:core] dump config after load, 3ms
+2021-03-03 14:01:29,287 INFO 10255 [egg-watcher:application] watcher start success
+2021-03-03 14:01:29,298 INFO 10255 [egg:core] dump config after ready, 9ms
+2021-03-05 11:33:04,466 INFO 19950 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:33:04,489 INFO 19950 [egg-multipart] stream mode enable
+2021-03-05 11:33:04,835 INFO 19950 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:33:04,839 INFO 19950 [egg-security] use csrf middleware
+2021-03-05 11:33:04,840 INFO 19950 [egg-security] use methodnoallow middleware
+2021-03-05 11:33:04,841 INFO 19950 [egg-security] use noopen middleware
+2021-03-05 11:33:04,843 INFO 19950 [egg-security] use nosniff middleware
+2021-03-05 11:33:04,844 INFO 19950 [egg-security] use xssProtection middleware
+2021-03-05 11:33:04,845 INFO 19950 [egg-security] use xframe middleware
+2021-03-05 11:33:04,846 INFO 19950 [egg-security] use dta middleware
+2021-03-05 11:33:04,846 INFO 19950 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:33:04,919 INFO 19950 [egg:core] dump config after load, 5ms
+2021-03-05 11:33:04,962 INFO 19950 [egg-watcher:application] watcher start success
+2021-03-05 11:33:04,982 INFO 19950 [egg:core] dump config after ready, 5ms
+2021-03-05 11:33:30,091 INFO 19963 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:33:30,118 INFO 19963 [egg-multipart] stream mode enable
+2021-03-05 11:33:30,536 INFO 19963 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:33:30,538 INFO 19963 [egg-security] use csrf middleware
+2021-03-05 11:33:30,539 INFO 19963 [egg-security] use methodnoallow middleware
+2021-03-05 11:33:30,539 INFO 19963 [egg-security] use noopen middleware
+2021-03-05 11:33:30,540 INFO 19963 [egg-security] use nosniff middleware
+2021-03-05 11:33:30,540 INFO 19963 [egg-security] use xssProtection middleware
+2021-03-05 11:33:30,541 INFO 19963 [egg-security] use xframe middleware
+2021-03-05 11:33:30,542 INFO 19963 [egg-security] use dta middleware
+2021-03-05 11:33:30,542 INFO 19963 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:33:30,584 INFO 19963 [egg:core] dump config after load, 3ms
+2021-03-05 11:33:30,631 INFO 19963 [egg-watcher:application] watcher start success
+2021-03-05 11:33:30,649 INFO 19963 [egg:core] dump config after ready, 5ms
+2021-03-05 11:33:32,454 INFO 19971 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:33:32,477 INFO 19971 [egg-multipart] stream mode enable
+2021-03-05 11:33:34,010 INFO 19971 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:33:34,012 INFO 19971 [egg-security] use csrf middleware
+2021-03-05 11:33:34,013 INFO 19971 [egg-security] use methodnoallow middleware
+2021-03-05 11:33:34,013 INFO 19971 [egg-security] use noopen middleware
+2021-03-05 11:33:34,013 INFO 19971 [egg-security] use nosniff middleware
+2021-03-05 11:33:34,014 INFO 19971 [egg-security] use xssProtection middleware
+2021-03-05 11:33:34,014 INFO 19971 [egg-security] use xframe middleware
+2021-03-05 11:33:34,014 INFO 19971 [egg-security] use dta middleware
+2021-03-05 11:33:34,014 INFO 19971 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:33:34,022 INFO 19971 [egg:core] dump config after load, 4ms
+2021-03-05 11:33:34,067 INFO 19971 [egg-watcher:application] watcher start success
+2021-03-05 11:33:34,087 INFO 19971 [egg:core] dump config after ready, 5ms
+2021-03-05 11:33:34,797 INFO 19972 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:33:34,818 INFO 19972 [egg-multipart] stream mode enable
+2021-03-05 11:33:35,057 INFO 19972 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:33:35,059 INFO 19972 [egg-security] use csrf middleware
+2021-03-05 11:33:35,060 INFO 19972 [egg-security] use methodnoallow middleware
+2021-03-05 11:33:35,060 INFO 19972 [egg-security] use noopen middleware
+2021-03-05 11:33:35,060 INFO 19972 [egg-security] use nosniff middleware
+2021-03-05 11:33:35,061 INFO 19972 [egg-security] use xssProtection middleware
+2021-03-05 11:33:35,061 INFO 19972 [egg-security] use xframe middleware
+2021-03-05 11:33:35,061 INFO 19972 [egg-security] use dta middleware
+2021-03-05 11:33:35,061 INFO 19972 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:33:35,069 INFO 19972 [egg:core] dump config after load, 3ms
+2021-03-05 11:33:35,110 INFO 19972 [egg-watcher:application] watcher start success
+2021-03-05 11:33:35,126 INFO 19972 [egg:core] dump config after ready, 4ms
+2021-03-05 11:34:10,598 INFO 19983 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:34:10,624 INFO 19983 [egg-multipart] stream mode enable
+2021-03-05 11:34:10,907 INFO 19983 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:34:10,908 INFO 19983 [egg-security] use csrf middleware
+2021-03-05 11:34:10,909 INFO 19983 [egg-security] use methodnoallow middleware
+2021-03-05 11:34:10,909 INFO 19983 [egg-security] use noopen middleware
+2021-03-05 11:34:10,909 INFO 19983 [egg-security] use nosniff middleware
+2021-03-05 11:34:10,910 INFO 19983 [egg-security] use xssProtection middleware
+2021-03-05 11:34:10,910 INFO 19983 [egg-security] use xframe middleware
+2021-03-05 11:34:10,910 INFO 19983 [egg-security] use dta middleware
+2021-03-05 11:34:10,910 INFO 19983 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:34:10,954 INFO 19983 [egg:core] dump config after load, 4ms
+2021-03-05 11:34:10,999 INFO 19983 [egg-watcher:application] watcher start success
+2021-03-05 11:34:11,020 INFO 19983 [egg:core] dump config after ready, 6ms
+2021-03-05 11:34:11,882 INFO 19984 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:34:11,904 INFO 19984 [egg-multipart] stream mode enable
+2021-03-05 11:34:12,139 INFO 19984 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:34:12,141 INFO 19984 [egg-security] use csrf middleware
+2021-03-05 11:34:12,141 INFO 19984 [egg-security] use methodnoallow middleware
+2021-03-05 11:34:12,142 INFO 19984 [egg-security] use noopen middleware
+2021-03-05 11:34:12,142 INFO 19984 [egg-security] use nosniff middleware
+2021-03-05 11:34:12,142 INFO 19984 [egg-security] use xssProtection middleware
+2021-03-05 11:34:12,143 INFO 19984 [egg-security] use xframe middleware
+2021-03-05 11:34:12,143 INFO 19984 [egg-security] use dta middleware
+2021-03-05 11:34:12,143 INFO 19984 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:34:12,151 INFO 19984 [egg:core] dump config after load, 4ms
+2021-03-05 11:34:12,191 INFO 19984 [egg-watcher:application] watcher start success
+2021-03-05 11:34:12,207 INFO 19984 [egg:core] dump config after ready, 4ms
+2021-03-05 11:34:15,245 INFO 19988 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:34:15,267 INFO 19988 [egg-multipart] stream mode enable
+2021-03-05 11:34:16,801 INFO 19988 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:34:16,803 INFO 19988 [egg-security] use csrf middleware
+2021-03-05 11:34:16,804 INFO 19988 [egg-security] use methodnoallow middleware
+2021-03-05 11:34:16,804 INFO 19988 [egg-security] use noopen middleware
+2021-03-05 11:34:16,805 INFO 19988 [egg-security] use nosniff middleware
+2021-03-05 11:34:16,805 INFO 19988 [egg-security] use xssProtection middleware
+2021-03-05 11:34:16,805 INFO 19988 [egg-security] use xframe middleware
+2021-03-05 11:34:16,805 INFO 19988 [egg-security] use dta middleware
+2021-03-05 11:34:16,805 INFO 19988 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:34:16,813 INFO 19988 [egg:core] dump config after load, 4ms
+2021-03-05 11:34:16,857 INFO 19988 [egg-watcher:application] watcher start success
+2021-03-05 11:34:16,875 INFO 19988 [egg:core] dump config after ready, 5ms
+2021-03-05 11:34:35,164 INFO 20000 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:34:35,191 INFO 20000 [egg-multipart] stream mode enable
+2021-03-05 11:34:35,435 INFO 20000 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:34:35,436 INFO 20000 [egg-security] use csrf middleware
+2021-03-05 11:34:35,437 INFO 20000 [egg-security] use methodnoallow middleware
+2021-03-05 11:34:35,437 INFO 20000 [egg-security] use noopen middleware
+2021-03-05 11:34:35,438 INFO 20000 [egg-security] use nosniff middleware
+2021-03-05 11:34:35,438 INFO 20000 [egg-security] use xssProtection middleware
+2021-03-05 11:34:35,438 INFO 20000 [egg-security] use xframe middleware
+2021-03-05 11:34:35,439 INFO 20000 [egg-security] use dta middleware
+2021-03-05 11:34:35,439 INFO 20000 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:34:35,447 INFO 20000 [egg:core] dump config after load, 4ms
+2021-03-05 11:34:35,490 INFO 20000 [egg-watcher:application] watcher start success
+2021-03-05 11:34:35,507 INFO 20000 [egg:core] dump config after ready, 5ms
+2021-03-05 11:35:10,786 INFO 20020 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:35:10,809 INFO 20020 [egg-multipart] stream mode enable
+2021-03-05 11:35:11,028 INFO 20020 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:35:11,029 INFO 20020 [egg-security] use csrf middleware
+2021-03-05 11:35:11,030 INFO 20020 [egg-security] use methodnoallow middleware
+2021-03-05 11:35:11,030 INFO 20020 [egg-security] use noopen middleware
+2021-03-05 11:35:11,031 INFO 20020 [egg-security] use nosniff middleware
+2021-03-05 11:35:11,031 INFO 20020 [egg-security] use xssProtection middleware
+2021-03-05 11:35:11,031 INFO 20020 [egg-security] use xframe middleware
+2021-03-05 11:35:11,031 INFO 20020 [egg-security] use dta middleware
+2021-03-05 11:35:11,031 INFO 20020 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:35:12,343 INFO 20020 [egg:core] dump config after load, 3ms
+2021-03-05 11:35:12,389 INFO 20020 [egg-watcher:application] watcher start success
+2021-03-05 11:35:12,406 INFO 20020 [egg:core] dump config after ready, 4ms
+2021-03-05 11:35:29,146 INFO 20025 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:35:29,185 INFO 20025 [egg-multipart] stream mode enable
+2021-03-05 11:35:29,679 INFO 20025 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:35:29,682 INFO 20025 [egg-security] use csrf middleware
+2021-03-05 11:35:29,684 INFO 20025 [egg-security] use methodnoallow middleware
+2021-03-05 11:35:29,685 INFO 20025 [egg-security] use noopen middleware
+2021-03-05 11:35:29,687 INFO 20025 [egg-security] use nosniff middleware
+2021-03-05 11:35:29,689 INFO 20025 [egg-security] use xssProtection middleware
+2021-03-05 11:35:29,690 INFO 20025 [egg-security] use xframe middleware
+2021-03-05 11:35:29,692 INFO 20025 [egg-security] use dta middleware
+2021-03-05 11:35:29,692 INFO 20025 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:35:31,101 INFO 20025 [egg:core] dump config after load, 3ms
+2021-03-05 11:35:31,146 INFO 20025 [egg-watcher:application] watcher start success
+2021-03-05 11:35:31,185 INFO 20025 [egg:core] dump config after ready, 7ms
+2021-03-05 11:41:03,045 INFO 20166 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:41:03,072 INFO 20166 [egg-multipart] stream mode enable
+2021-03-05 11:41:03,553 INFO 20166 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:41:03,556 INFO 20166 [egg-security] use csrf middleware
+2021-03-05 11:41:03,558 INFO 20166 [egg-security] use methodnoallow middleware
+2021-03-05 11:41:03,559 INFO 20166 [egg-security] use noopen middleware
+2021-03-05 11:41:03,560 INFO 20166 [egg-security] use nosniff middleware
+2021-03-05 11:41:03,561 INFO 20166 [egg-security] use xssProtection middleware
+2021-03-05 11:41:03,563 INFO 20166 [egg-security] use xframe middleware
+2021-03-05 11:41:03,564 INFO 20166 [egg-security] use dta middleware
+2021-03-05 11:41:03,564 INFO 20166 [egg-security] compose 7 middlewares into one security middleware
+2021-03-05 11:41:05,344 INFO 20166 [egg:core] dump config after load, 3ms
+2021-03-05 11:41:05,390 INFO 20166 [egg-watcher:application] watcher start success
+2021-03-05 11:41:05,409 INFO 20166 [egg:core] dump config after ready, 5ms
+2021-03-05 11:50:45,565 INFO 20265 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 11:50:45,596 INFO 20265 [egg-multipart] stream mode enable
+2021-03-05 11:50:45,961 INFO 20265 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 11:50:45,972 INFO 20265 [egg:core] dump config after load, 4ms
+2021-03-05 11:50:46,022 INFO 20265 [egg-watcher:application] watcher start success
+2021-03-05 11:50:46,064 INFO 20265 [egg:core] dump config after ready, 14ms
+2021-03-05 12:01:14,681 INFO 20345 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 12:01:14,709 INFO 20345 [egg-multipart] stream mode enable
+2021-03-05 12:01:15,081 INFO 20345 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 12:01:15,096 INFO 20345 [egg:core] dump config after load, 7ms
+2021-03-05 12:01:15,141 INFO 20345 [egg-watcher:application] watcher start success
+2021-03-05 12:01:15,160 INFO 20345 [egg:core] dump config after ready, 5ms
+2021-03-05 13:51:03,546 INFO 20414 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 13:51:03,579 INFO 20414 [egg-multipart] stream mode enable
+2021-03-05 13:51:04,103 INFO 20414 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 13:51:05,875 INFO 20414 [egg:core] dump config after load, 3ms
+2021-03-05 13:51:05,905 INFO 20414 [egg-watcher:application] watcher start success
+2021-03-05 13:51:05,936 INFO 20414 [egg:core] dump config after ready, 4ms
+2021-03-05 14:08:01,913 WARN 20414 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 14:09:19,629 INFO 20545 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 14:09:19,659 INFO 20545 [egg-multipart] stream mode enable
+2021-03-05 14:09:20,045 INFO 20545 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 14:09:20,058 INFO 20545 [egg:core] dump config after load, 4ms
+2021-03-05 14:09:20,100 INFO 20545 [egg-watcher:application] watcher start success
+2021-03-05 14:09:20,122 INFO 20545 [egg:core] dump config after ready, 4ms
+2021-03-05 14:13:50,612 INFO 20582 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 14:13:50,636 INFO 20582 [egg-multipart] stream mode enable
+2021-03-05 14:13:50,914 INFO 20582 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 14:13:50,926 INFO 20582 [egg:core] dump config after load, 4ms
+2021-03-05 14:13:50,965 INFO 20582 [egg-watcher:application] watcher start success
+2021-03-05 14:13:50,981 INFO 20582 [egg:core] dump config after ready, 4ms
+2021-03-05 14:14:38,992 INFO 20604 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 14:14:39,015 INFO 20604 [egg-multipart] stream mode enable
+2021-03-05 14:14:39,315 INFO 20604 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 14:14:39,327 INFO 20604 [egg:core] dump config after load, 4ms
+2021-03-05 14:14:39,363 INFO 20604 [egg-watcher:application] watcher start success
+2021-03-05 14:14:39,382 INFO 20604 [egg:core] dump config after ready, 4ms
+2021-03-05 14:15:12,531 INFO 20610 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 14:15:12,554 INFO 20610 [egg-multipart] stream mode enable
+2021-03-05 14:15:14,101 INFO 20610 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 14:15:14,111 INFO 20610 [egg:core] dump config after load, 3ms
+2021-03-05 14:15:14,149 INFO 20610 [egg-watcher:application] watcher start success
+2021-03-05 14:15:14,174 INFO 20610 [egg:core] dump config after ready, 14ms
+2021-03-05 14:15:53,716 INFO 20622 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 14:15:53,740 INFO 20622 [egg-multipart] stream mode enable
+2021-03-05 14:15:55,352 INFO 20622 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 14:15:55,362 INFO 20622 [egg:core] dump config after load, 4ms
+2021-03-05 14:15:55,406 INFO 20622 [egg-watcher:application] watcher start success
+2021-03-05 14:15:55,429 INFO 20622 [egg:core] dump config after ready, 11ms
+2021-03-05 14:16:06,812 INFO 20629 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 14:16:06,836 INFO 20629 [egg-multipart] stream mode enable
+2021-03-05 14:16:07,196 INFO 20629 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 14:16:07,207 INFO 20629 [egg:core] dump config after load, 4ms
+2021-03-05 14:16:07,252 INFO 20629 [egg-watcher:application] watcher start success
+2021-03-05 14:16:07,271 INFO 20629 [egg:core] dump config after ready, 5ms
+2021-03-05 14:16:24,542 INFO 20642 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 14:16:24,565 INFO 20642 [egg-multipart] stream mode enable
+2021-03-05 14:16:24,799 INFO 20642 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 14:16:24,808 INFO 20642 [egg:core] dump config after load, 3ms
+2021-03-05 14:16:24,845 INFO 20642 [egg-watcher:application] watcher start success
+2021-03-05 14:16:24,860 INFO 20642 [egg:core] dump config after ready, 3ms
+2021-03-05 14:18:16,690 INFO 20898 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-05 14:18:16,721 INFO 20898 [egg-multipart] stream mode enable
+2021-03-05 14:18:17,146 INFO 20898 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-05 14:18:17,157 INFO 20898 [egg:core] dump config after load, 4ms
+2021-03-05 14:18:17,195 INFO 20898 [egg-watcher:application] watcher start success
+2021-03-05 14:18:17,215 INFO 20898 [egg:core] dump config after ready, 4ms
+2021-03-05 18:19:35,255 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 18:49:36,209 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 19:19:39,183 WARN 20898 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-05 19:19:39,183 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 19:34:50,609 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 20:45:18,586 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 21:36:12,584 WARN 20898 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-05 21:36:12,595 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 21:48:17,162 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 22:10:00,439 WARN 20898 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-05 22:10:00,439 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 22:44:08,248 WARN 20898 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-05 22:44:08,248 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-05 23:16:27,740 WARN 20898 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-05 23:16:27,752 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-06 00:15:07,104 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-06 00:38:46,430 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-06 01:36:54,914 WARN 20898 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-06 01:36:54,915 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-06 05:15:50,011 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-06 09:16:16,017 WARN 20898 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-06 09:16:16,030 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-06 09:44:43,221 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-06 10:20:30,505 WARN 20898 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-18 09:29:43,293 INFO 3319 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-18 09:29:43,315 INFO 3319 [egg-multipart] stream mode enable
+2021-03-18 09:29:43,833 INFO 3319 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-18 09:29:43,885 INFO 3319 [egg:core] dump config after load, 5ms
+2021-03-18 09:29:43,926 INFO 3319 [egg-watcher:application] watcher start success
+2021-03-18 09:29:43,943 INFO 3319 [egg:core] dump config after ready, 4ms
