@@ -2,13 +2,13 @@
  * @Author: tangzhicheng
  * @Date: 2021-03-05 11:24:53
  * @LastEditors: tangzhicheng
- * @LastEditTime: 2021-03-19 22:09:06
+ * @LastEditTime: 2021-03-19 22:27:56
  * @Description: file content
  */
 
 import { Application } from 'egg'
 
-interface UserAttrbutes {
+export interface UserAttrbutes {
   id: number
   username: string
   password: string

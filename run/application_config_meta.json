@@ -9,6 +9,9 @@
     "dialect": "/Users/tangzhicheng/Desktop/egg-music-community/config/config.default.ts",
     "port": "/Users/tangzhicheng/Desktop/egg-music-community/config/config.default.ts"
   },
+  "checkIsLogin": {
+    "ignore": "/Users/tangzhicheng/Desktop/egg-music-community/config/config.default.ts"
+  },
   "sourceUrl": "/Users/tangzhicheng/Desktop/egg-music-community/config/config.default.ts",
   "session": {
     "maxAge": "/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-session/config/config.default.js",

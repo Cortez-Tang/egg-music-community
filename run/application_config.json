@@ -296,7 +296,13 @@
       "responseTimeout": 60000
     },
     "onClientError": null,
-    "middleware": [],
+    "middleware": [
+      "checkIsLogin",
+      "deBounce"
+    ],
+    "checkIsLogin": {
+      "ignore": "<Function ignore>"
+    },
     "sourceUrl": "https://github.com/eggjs/examples/tree/master/music-community",
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
