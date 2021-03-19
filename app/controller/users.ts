@@ -2,7 +2,7 @@
  * @Author: tangzhicheng
  * @Date: 2021-03-03 09:16:35
  * @LastEditors: tangzhicheng
- * @LastEditTime: 2021-03-05 13:51:02
+ * @LastEditTime: 2021-03-19 22:01:04
  * @Description: file content
  */
 
@@ -18,7 +18,7 @@ export default class UsersController extends Controller {
 
   public async create() {
     const data = this.ctx.request.body
-    this.app.logger.info(`${this.ctx.method} - ${this.ctx.url} - ${JSON.stringify(this.ctx.request.body)}`)
+    // this.ctx.validate()
     const result = await this.service.users.registerUser(data)
     result ? this.success(result) : this.fail('创建失败！')
   }

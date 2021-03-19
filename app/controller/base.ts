@@ -2,7 +2,7 @@
  * @Author: tangzhicheng
  * @Date: 2021-03-03 09:26:22
  * @LastEditors: tangzhicheng
- * @LastEditTime: 2021-03-03 09:37:08
+ * @LastEditTime: 2021-03-19 22:23:14
  * @Description: file content
  */
 
@@ -19,25 +19,39 @@ class BaseModel {
   }
 }
 
-class Success extends BaseModel {
+export class Success extends BaseModel {
   constructor(data: any) {
     super(0, data, null)
   }
 }
 
-class Fail extends BaseModel {
+export class Fail extends BaseModel {
   constructor(msg: string) {
     super(-1, null, msg)
   }
 }
 
+export interface E extends Error {
+  errors?: ValidateError[];
+}
 
 export default class BaseController extends Controller {
   protected success(data: any) {
     this.ctx.body = new Success(data)
+
   }
 
-  protected fail(msg: string) {
+  protected fail(err: string | E) {
+    let msg
+    if (typeof err === 'string') {
+      msg = err
+    } else {
+      if (err.errors) {
+        msg = err.errors[0].message
+      } else {
+        msg = err.message
+      }
+    }
     this.ctx.body = new Fail(msg)
   }
 }

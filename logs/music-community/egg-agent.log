@@ -475,3 +475,26 @@ hostname: tangzhichengdeMacBook-Pro.local
 2021-03-18 09:29:41,267 INFO 3313 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app.js"
 2021-03-18 09:29:41,268 INFO 3313 [egg-watcher:agent] watcher start success
 2021-03-18 09:29:41,311 INFO 3313 [egg:core] dump config after ready, 4ms
+2021-03-19 22:01:55,903 INFO 3602 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2021-03-19 22:01:55,450 INFO 3602 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-19 22:01:55,767 INFO 3602 [egg:core] dump config after load, 4ms
+2021-03-19 22:01:55,859 INFO 3602 [egg-watcher] Start watching: ["/Users/tangzhicheng/Desktop/egg-music-community/app","/Users/tangzhicheng/Desktop/egg-music-community/config","/Users/tangzhicheng/Desktop/egg-music-community/mocks","/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy","/Users/tangzhicheng/Desktop/egg-music-community/app.js"]
+2021-03-19 22:01:55,859 INFO 3602 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app"
+2021-03-19 22:01:55,859 INFO 3602 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/config"
+2021-03-19 22:01:55,860 INFO 3602 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks"
+2021-03-19 22:01:55,860 INFO 3602 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy"
+2021-03-19 22:01:55,860 INFO 3602 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app.js"
+2021-03-19 22:01:55,860 INFO 3602 [egg-watcher:agent] watcher start success
+2021-03-19 22:01:55,910 INFO 3602 [egg:core] dump config after ready, 4ms
+2021-03-19 22:01:58,207 INFO 3602 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/tangzhicheng/Desktop/egg-music-community/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":23253497,"size":64,"blocks":0,"atimeMs":1616162518196.0325,"mtimeMs":1616162518196.0325,"ctimeMs":1616162518196.0325,"birthtimeMs":1616162518196.0325,"atime":"2021-03-19T14:01:58.196Z","mtime":"2021-03-19T14:01:58.196Z","ctime":"2021-03-19T14:01:58.196Z","birthtime":"2021-03-19T14:01:58.196Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-03-19 22:23:24,001 INFO 4981 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-19 22:23:25,743 INFO 4981 [egg:core] dump config after load, 2ms
+2021-03-19 22:23:25,840 INFO 4981 [egg-watcher] Start watching: ["/Users/tangzhicheng/Desktop/egg-music-community/app","/Users/tangzhicheng/Desktop/egg-music-community/config","/Users/tangzhicheng/Desktop/egg-music-community/mocks","/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy","/Users/tangzhicheng/Desktop/egg-music-community/app.js"]
+2021-03-19 22:23:25,840 INFO 4981 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app"
+2021-03-19 22:23:25,840 INFO 4981 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/config"
+2021-03-19 22:23:25,840 INFO 4981 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks"
+2021-03-19 22:23:25,840 INFO 4981 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy"
+2021-03-19 22:23:25,840 INFO 4981 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app.js"
+2021-03-19 22:23:25,841 INFO 4981 [egg-watcher:agent] watcher start success
+2021-03-19 22:23:25,880 INFO 4981 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2021-03-19 22:23:25,886 INFO 4981 [egg:core] dump config after ready, 4ms
