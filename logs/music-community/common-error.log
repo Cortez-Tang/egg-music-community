@@ -437,3 +437,75 @@ original: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.
 pid: 1152
 hostname: tangzhichengdeMacBook-Pro.local
 
+2021-03-20 12:48:50,651 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 2589938ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 13:06:35,452 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 1064791ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 13:29:09,833 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 1354379ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 14:33:53,865 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 3884028ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 15:24:43,905 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 3050038ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 17:48:12,371 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 8608462ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 18:03:33,495 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 921120ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 18:29:47,019 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 1573522ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 19:01:49,909 ERROR 4520 nodejs.ClusterClientNoResponseError: client no response in 1922887ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4520
+hostname: tangzhichengdeMacBook-Pro.local
+

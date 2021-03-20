@@ -301,3 +301,63 @@
 2021-03-20 11:02:24,585 INFO 1456 [Timer] /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62855418ms at 2021-03-21 04:30:00.003
 2021-03-20 11:02:24,585 INFO 1456 [Timer] /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46655415ms at 2021-03-21 00:00:00.000
 2021-03-20 11:02:24,585 INFO 1456 [Timer] /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46656415ms at 2021-03-21 00:00:01.000
+2021-03-20 11:10:22,417 INFO 2204 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:10:22,417 INFO 2204 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:10:22,417 INFO 2204 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:10:34,336 INFO 2222 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:10:34,336 INFO 2222 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:10:34,336 INFO 2222 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:10:39,591 INFO 2230 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:10:39,591 INFO 2230 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:10:39,591 INFO 2230 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:11:07,832 INFO 2247 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:11:07,832 INFO 2247 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:11:07,832 INFO 2247 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:11:52,903 INFO 2297 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:11:52,903 INFO 2297 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:11:52,903 INFO 2297 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:13:17,900 INFO 2334 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:13:17,900 INFO 2334 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:13:17,900 INFO 2334 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:13:31,719 INFO 2351 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:13:31,719 INFO 2351 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:13:31,719 INFO 2351 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:13:37,505 INFO 2365 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:13:37,505 INFO 2365 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:13:37,505 INFO 2365 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:14:17,329 INFO 2381 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:14:17,329 INFO 2381 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:14:17,329 INFO 2381 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:15:51,505 INFO 2457 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:15:51,505 INFO 2457 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:15:51,505 INFO 2457 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:16:02,862 INFO 2477 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:16:02,862 INFO 2477 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:16:02,862 INFO 2477 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:16:05,708 INFO 2485 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:16:05,708 INFO 2485 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:16:05,708 INFO 2485 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:16:31,134 INFO 2504 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:16:31,134 INFO 2504 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:16:31,134 INFO 2504 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:22:26,453 INFO 2604 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:22:26,453 INFO 2604 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:22:26,453 INFO 2604 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:25:25,676 INFO 2686 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:25:25,676 INFO 2686 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:25:25,676 INFO 2686 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:27:02,742 INFO 2720 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:27:02,742 INFO 2720 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:27:02,742 INFO 2720 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:29:40,222 INFO 2788 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:29:40,222 INFO 2788 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:29:40,222 INFO 2788 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:33:07,531 INFO 2851 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:33:07,531 INFO 2851 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:33:07,531 INFO 2851 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-20 11:48:20,501 INFO 4520 [Timer] /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60099502ms at 2021-03-21 04:30:00.003
+2021-03-20 11:48:20,502 INFO 4520 [Timer] /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43899499ms at 2021-03-21 00:00:00.001
+2021-03-20 11:48:20,502 INFO 4520 [Timer] /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43900498ms at 2021-03-21 00:00:01.000
+2021-03-20 11:48:20,087 INFO 4527 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-20 11:48:20,087 INFO 4527 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-20 11:48:20,087 INFO 4527 [egg-schedule]: register schedule /Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

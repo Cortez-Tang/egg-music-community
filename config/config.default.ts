@@ -2,7 +2,7 @@
  * @Author: tangzhicheng
  * @Date: 2021-03-03 09:08:37
  * @LastEditors: tangzhicheng
- * @LastEditTime: 2021-03-19 23:42:49
+ * @LastEditTime: 2021-03-20 11:47:48
  * @Description: file content
  */
 import { EggAppConfig, EggAppInfo, PowerPartial } from 'egg'
@@ -34,6 +34,16 @@ export default (appInfo: EggAppInfo) => {
       console.log(path)
       return reg.test(path)
     },
+  }
+
+  config.redis = {
+    client: {
+      host: 'localhost',
+      port: 6379,
+      password: '',
+      db: 0,
+    },
+    agent: true,
   }
 
   // config.onClientError

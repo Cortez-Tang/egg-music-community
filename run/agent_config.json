@@ -100,6 +100,21 @@
       "username": "root",
       "password": "<String len: 9>"
     },
+    "redis": {
+      "default": {},
+      "app": true,
+      "agent": true,
+      "supportTimeCommand": true,
+      "client": {
+        "host": "localhost",
+        "port": 6379,
+        "password": "<String len: 0>",
+        "db": 0
+      }
+    },
+    "sessionRedis": {
+      "name": ""
+    },
     "env": "local",
     "name": "music-community",
     "keys": "<String len: 34>",
@@ -135,8 +150,10 @@
       },
       "dependencies": {
         "egg": "^2.6.1",
+        "egg-redis": "^2.4.0",
         "egg-scripts": "^2.6.0",
         "egg-sequelize": "^6.0.0",
+        "egg-session-redis": "^2.1.0",
         "egg-validate": "^2.0.2",
         "mysql2": "^2.2.5",
         "sequelize": "^6.5.0"
@@ -449,6 +466,30 @@
       "from": "/Users/tangzhicheng/Desktop/egg-music-community/config/plugin.ts",
       "path": "/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize",
       "version": "6.0.0"
+    },
+    "redis": {
+      "enable": true,
+      "package": "egg-redis",
+      "name": "redis",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Users/tangzhicheng/Desktop/egg-music-community/config/plugin.ts",
+      "path": "/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-redis",
+      "version": "2.4.0"
+    },
+    "sessionRedis": {
+      "enable": true,
+      "package": "egg-session-redis",
+      "name": "sessionRedis",
+      "dependencies": [
+        "redis"
+      ],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Users/tangzhicheng/Desktop/egg-music-community/config/plugin.ts",
+      "path": "/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-session-redis",
+      "version": "2.1.0"
     }
   }
 }
