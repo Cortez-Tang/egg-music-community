@@ -677,3 +677,24 @@
 2021-03-20 00:08:28,028 INFO 8276 [egg:core] dump config after load, 4ms
 2021-03-20 00:08:28,066 INFO 8276 [egg-watcher:application] watcher start success
 2021-03-20 00:08:28,082 INFO 8276 [egg:core] dump config after ready, 4ms
+2021-03-20 00:16:12,433 INFO 8735 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-20 00:16:12,458 INFO 8735 [egg-multipart] stream mode enable
+2021-03-20 00:16:12,858 INFO 8735 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-20 00:16:12,875 INFO 8735 [egg:core] dump config after load, 7ms
+2021-03-20 00:16:12,940 INFO 8735 [egg-watcher:application] watcher start success
+2021-03-20 00:16:12,969 INFO 8735 [egg:core] dump config after ready, 4ms
+2021-03-20 00:17:02,162 ERROR 8735 nodejs.ServerNoResponseError: server 127.0.0.1:49237 no response in 20711ms, maybe the socket is end on the other side. (address: 127.0.0.1:49237)
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/tcp-base/lib/base.js:427:21)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ServerNoResponseError"
+pid: 8735
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 00:17:04,572 WARN 8735 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-20 11:02:24,084 INFO 1457 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-20 11:02:24,113 INFO 1457 [egg-multipart] stream mode enable
+2021-03-20 11:02:24,475 INFO 1457 [egg-static] starting static serve /public/ -> /Users/tangzhicheng/Desktop/egg-music-community/app/public
+2021-03-20 11:02:24,520 INFO 1457 [egg:core] dump config after load, 3ms
+2021-03-20 11:02:24,561 INFO 1457 [egg-watcher:application] watcher start success
+2021-03-20 11:02:24,580 INFO 1457 [egg:core] dump config after ready, 4ms

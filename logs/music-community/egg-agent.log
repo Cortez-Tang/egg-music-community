@@ -777,3 +777,86 @@ hostname: tangzhichengdeMacBook-Pro.local
 2021-03-20 00:08:27,068 INFO 8275 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app.js"
 2021-03-20 00:08:27,068 INFO 8275 [egg-watcher:agent] watcher start success
 2021-03-20 00:08:27,124 INFO 8275 [egg:core] dump config after ready, 4ms
+2021-03-20 00:16:11,084 INFO 8732 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2021-03-20 00:16:10,526 INFO 8732 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-20 00:16:10,907 INFO 8732 [egg:core] dump config after load, 5ms
+2021-03-20 00:16:11,015 INFO 8732 [egg-watcher] Start watching: ["/Users/tangzhicheng/Desktop/egg-music-community/app","/Users/tangzhicheng/Desktop/egg-music-community/config","/Users/tangzhicheng/Desktop/egg-music-community/mocks","/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy","/Users/tangzhicheng/Desktop/egg-music-community/app.js"]
+2021-03-20 00:16:11,015 INFO 8732 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app"
+2021-03-20 00:16:11,015 INFO 8732 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/config"
+2021-03-20 00:16:11,015 INFO 8732 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks"
+2021-03-20 00:16:11,016 INFO 8732 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy"
+2021-03-20 00:16:11,016 INFO 8732 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app.js"
+2021-03-20 00:16:11,016 INFO 8732 [egg-watcher:agent] watcher start success
+2021-03-20 00:16:11,095 INFO 8732 [egg:core] dump config after ready, 6ms
+2021-03-20 00:17:02,160 WARN 8732 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-03-20 11:00:14,073 WARN 1132 Sequelize Error: connect ECONNREFUSED 127.0.0.1:3306, sleep 1 seconds to retry...
+2021-03-20 11:00:13,549 INFO 1132 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-20 11:00:13,965 INFO 1132 [egg:core] dump config after load, 2ms
+2021-03-20 11:00:14,064 INFO 1132 [egg-watcher] Start watching: ["/Users/tangzhicheng/Desktop/egg-music-community/app","/Users/tangzhicheng/Desktop/egg-music-community/config","/Users/tangzhicheng/Desktop/egg-music-community/mocks","/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy","/Users/tangzhicheng/Desktop/egg-music-community/app.js"]
+2021-03-20 11:00:14,064 INFO 1132 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app"
+2021-03-20 11:00:14,064 INFO 1132 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/config"
+2021-03-20 11:00:14,064 INFO 1132 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks"
+2021-03-20 11:00:14,064 INFO 1132 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy"
+2021-03-20 11:00:14,064 INFO 1132 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app.js"
+2021-03-20 11:00:14,064 INFO 1132 [egg-watcher:agent] watcher start success
+2021-03-20 11:00:15,077 WARN 1132 Sequelize Error: connect ECONNREFUSED 127.0.0.1:3306, sleep 1 seconds to retry...
+2021-03-20 11:00:16,078 WARN 1132 Sequelize Error: connect ECONNREFUSED 127.0.0.1:3306, sleep 1 seconds to retry...
+2021-03-20 11:00:17,087 ERROR 1132 nodejs.SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306
+    at ConnectionManager.connect (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:116:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at ConnectionManager._connect (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:318:24)
+    at /Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:250:32
+    at ConnectionManager.getConnection (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:280:7)
+    at /Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/sequelize.js:613:26
+    at Sequelize.authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/sequelize.js:867:5)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:134:7)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:142:7)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:142:7)
+name: "SequelizeConnectionRefusedError"
+parent: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":3306,"fatal":true}
+original: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":3306,"fatal":true}
+pid: 1132
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 11:00:17,096 INFO 1132 [egg:core] dump config after ready, 8ms
+2021-03-20 11:00:37,195 WARN 1152 Sequelize Error: connect ECONNREFUSED 127.0.0.1:3306, sleep 1 seconds to retry...
+2021-03-20 11:00:36,976 INFO 1152 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-20 11:00:37,144 INFO 1152 [egg:core] dump config after load, 3ms
+2021-03-20 11:00:37,187 INFO 1152 [egg-watcher] Start watching: ["/Users/tangzhicheng/Desktop/egg-music-community/app","/Users/tangzhicheng/Desktop/egg-music-community/config","/Users/tangzhicheng/Desktop/egg-music-community/mocks","/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy","/Users/tangzhicheng/Desktop/egg-music-community/app.js"]
+2021-03-20 11:00:37,187 INFO 1152 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app"
+2021-03-20 11:00:37,187 INFO 1152 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/config"
+2021-03-20 11:00:37,187 INFO 1152 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks"
+2021-03-20 11:00:37,187 INFO 1152 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy"
+2021-03-20 11:00:37,187 INFO 1152 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app.js"
+2021-03-20 11:00:37,187 INFO 1152 [egg-watcher:agent] watcher start success
+2021-03-20 11:00:38,202 WARN 1152 Sequelize Error: connect ECONNREFUSED 127.0.0.1:3306, sleep 1 seconds to retry...
+2021-03-20 11:00:39,209 WARN 1152 Sequelize Error: connect ECONNREFUSED 127.0.0.1:3306, sleep 1 seconds to retry...
+2021-03-20 11:00:40,224 ERROR 1152 nodejs.SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306
+    at ConnectionManager.connect (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:116:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at ConnectionManager._connect (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:318:24)
+    at /Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:250:32
+    at ConnectionManager.getConnection (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:280:7)
+    at /Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/sequelize.js:613:26
+    at Sequelize.authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/sequelize.js:867:5)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:134:7)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:142:7)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:142:7)
+name: "SequelizeConnectionRefusedError"
+parent: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":3306,"fatal":true}
+original: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":3306,"fatal":true}
+pid: 1152
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 11:00:40,232 INFO 1152 [egg:core] dump config after ready, 6ms
+2021-03-20 11:02:21,974 INFO 1456 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2021-03-20 11:02:21,467 INFO 1456 [egg:logger] init all loggers with options: {"dir":"/Users/tangzhicheng/Desktop/egg-music-community/logs/music-community","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"music-community-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-20 11:02:21,821 INFO 1456 [egg:core] dump config after load, 3ms
+2021-03-20 11:02:21,929 INFO 1456 [egg-watcher] Start watching: ["/Users/tangzhicheng/Desktop/egg-music-community/app","/Users/tangzhicheng/Desktop/egg-music-community/config","/Users/tangzhicheng/Desktop/egg-music-community/mocks","/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy","/Users/tangzhicheng/Desktop/egg-music-community/app.js"]
+2021-03-20 11:02:21,930 INFO 1456 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app"
+2021-03-20 11:02:21,930 INFO 1456 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/config"
+2021-03-20 11:02:21,930 INFO 1456 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks"
+2021-03-20 11:02:21,930 INFO 1456 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/mocks_proxy"
+2021-03-20 11:02:21,930 INFO 1456 [egg-watcher] Start watching: "/Users/tangzhicheng/Desktop/egg-music-community/app.js"
+2021-03-20 11:02:21,930 INFO 1456 [egg-watcher:agent] watcher start success
+2021-03-20 11:02:21,980 INFO 1456 [egg:core] dump config after ready, 4ms

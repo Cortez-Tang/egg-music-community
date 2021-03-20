@@ -395,3 +395,45 @@ hostname: tangzhiengdeMBP
 pid: 3319
 hostname: tangzhiengdeMBP
 
+2021-03-20 00:17:02,162 ERROR 8735 nodejs.ServerNoResponseError: server 127.0.0.1:49237 no response in 20711ms, maybe the socket is end on the other side. (address: 127.0.0.1:49237)
+    at Timeout._onTimeout (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/tcp-base/lib/base.js:427:21)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ServerNoResponseError"
+pid: 8735
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 11:00:17,086 ERROR 1132 nodejs.SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306
+    at ConnectionManager.connect (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:116:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at ConnectionManager._connect (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:318:24)
+    at /Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:250:32
+    at ConnectionManager.getConnection (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:280:7)
+    at /Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/sequelize.js:613:26
+    at Sequelize.authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/sequelize.js:867:5)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:134:7)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:142:7)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:142:7)
+name: "SequelizeConnectionRefusedError"
+parent: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":3306,"fatal":true}
+original: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":3306,"fatal":true}
+pid: 1132
+hostname: tangzhichengdeMacBook-Pro.local
+
+2021-03-20 11:00:40,224 ERROR 1152 nodejs.SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306
+    at ConnectionManager.connect (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:116:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at ConnectionManager._connect (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:318:24)
+    at /Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:250:32
+    at ConnectionManager.getConnection (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:280:7)
+    at /Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/sequelize.js:613:26
+    at Sequelize.authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/sequelize/lib/sequelize.js:867:5)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:134:7)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:142:7)
+    at authenticate (/Users/tangzhicheng/Desktop/egg-music-community/node_modules/egg-sequelize/lib/loader.js:142:7)
+name: "SequelizeConnectionRefusedError"
+parent: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":3306,"fatal":true}
+original: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":3306,"fatal":true}
+pid: 1152
+hostname: tangzhichengdeMacBook-Pro.local
+
